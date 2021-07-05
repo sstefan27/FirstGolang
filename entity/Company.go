@@ -5,7 +5,7 @@ type Company struct {
 	Location          Location
 	Name              string
 }
-
+//c
 func InitCompanies() []Company {
 	companies := []Company{}
 	company := Company{

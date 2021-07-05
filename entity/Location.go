@@ -5,7 +5,7 @@ type Location struct {
 	Latitude  float32
 	city      string
 }
-
+//d
 func (location Location) GetCity() string {
 	return location.city
 }

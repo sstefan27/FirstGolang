@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"go/golang/entity"
 )
-
+//s
 func main() {
 	companies := entity.InitCompanies()
 	fmt.Println(companies)
